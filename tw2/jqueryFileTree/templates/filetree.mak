@@ -5,7 +5,7 @@
 $(document).ready( function() {
 var root_path = '/home/robertsudwarts/';
 var scrpt = 'dir_fetch';
-$('#my-widget').fileTree(${w.options | n}, 
+$('#${w.id}').fileTree(${w.options | n}, 
       function(file) {
           console.log(file);
       });
