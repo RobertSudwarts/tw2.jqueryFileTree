@@ -42,4 +42,8 @@ tw2/jqueryFileTree/static/images/txt.png
 tw2/jqueryFileTree/static/images/xls.png
 tw2/jqueryFileTree/static/images/zip.png
 tw2/jqueryFileTree/templates/__init__.py
+<<<<<<< HEAD
 tw2/jqueryFileTree/templates/filetree.mak
+=======
+tw2/jqueryFileTree/templates/filetree.mak
+>>>>>>> ea7f8abad603bba32ce59c5c2bb4455043c0ee39
